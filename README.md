@@ -2,7 +2,7 @@
 
 ## I'm a iOS Developer!!
 
-- 🌱  I’m currently learning Swift & SwiftUI with OpenclassRooms
+- 🌱  I’m currently learning Swift, UIKit & SwiftUI with OpenclassRooms
 - 👯  I’m looking to collaborate with other content creators
 - 🥅  2021 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love to draw and play guitar and Ice hockey
