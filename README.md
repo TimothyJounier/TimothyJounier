@@ -23,9 +23,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="26px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/gitkraken-avis-prix-alternatives-logiciel.webp" />
-<img align="left" alt="Git" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTne0ZqZeUcM6TRz533CZDfoDHau22lV4vcHg&usqp=CAU" />
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/langfr-310px-GitLab_logo.svg.png" />
+<img align="left" alt="GitKraken" width="26px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/gitkraken-avis-prix-alternatives-logiciel.webp" />
+<img align="left" alt="SourceTree" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTne0ZqZeUcM6TRz533CZDfoDHau22lV4vcHg&usqp=CAU" />
+<img align="left" alt="GitLab" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/formation-gitlab.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [linkedin]: https://www.linkedin.com/in/timothy-jounier-a518bb1a0/
