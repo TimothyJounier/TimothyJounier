@@ -28,5 +28,6 @@
 <img align="left" alt="SourceTree" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTne0ZqZeUcM6TRz533CZDfoDHau22lV4vcHg&usqp=CAU" />
 <img align="left" alt="GitLab" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/formation-gitlab.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 
 [linkedin]: https://www.linkedin.com/in/timothy-jounier-a518bb1a0/
