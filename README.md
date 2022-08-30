@@ -22,8 +22,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" 
-<img align="left" alt="Typescript" width="26px" src="https://pngset.com/images/angular-full-color-logo-angular-logo-symbol-sign-trademark-triangle-transparent-png-2613477.png" />
+<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="Angular" width="26px" src="https://pngset.com/images/angular-full-color-logo-angular-logo-symbol-sign-trademark-triangle-transparent-png-2613477.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitKraken" width="26px" src="https://www.logiciels.pro/wp-content/uploads/2021/05/gitkraken-avis-prix-alternatives-logiciel.webp" />
 <img align="left" alt="SourceTree" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTne0ZqZeUcM6TRz533CZDfoDHau22lV4vcHg&usqp=CAU" />
